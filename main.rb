@@ -1,6 +1,6 @@
 class Main
   def to_git4
-    "git4"
+    "rebase é mais dificil do que parece"
   end
 
   def to_git2
